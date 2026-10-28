@@ -1,3 +1,4 @@
+
 # Nexmedora RCM
 
 Premier US medical billing and revenue cycle management (RCM) partner based in Ahmedabad, India, delivering 98.4% first-pass clean claim rates, rapid AR recovery, and full HIPAA compliance for US healthcare providers.
@@ -9,10 +10,7 @@ Premier US medical billing and revenue cycle management (RCM) partner based in A
 - Framer Motion
 - Lucide React
 
-## Running Locally
-```bash
-npm install
-npm run dev
-```
 
-Visit [http://localhost:3000](http://localhost:3000)
+=======
+# nexmedora
+
