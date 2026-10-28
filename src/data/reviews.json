@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "doctorName": "Dr. Marcus V., MD",
+    "specialty": "Cardiology",
+    "city": "Atlanta",
+    "state": "GA",
+    "rating": 5,
+    "reviewText": "Sample layout review: Transitioning revenue cycle operations achieved consistent sub-30-day AR and improved first-pass acceptance rates across diagnostic and clinical encounters.",
+    "date": "2026-08-20",
+    "isSample": true
+  },
+  {
+    "id": "2",
+    "doctorName": "Dr. Elena R., MD",
+    "specialty": "Orthopedic Surgery",
+    "city": "Philadelphia",
+    "state": "PA",
+    "rating": 5,
+    "reviewText": "Sample layout review: Surgical coding turnaround and structured appeals protocol significantly reduced timely filing lag and unbundled surgical claim denials.",
+    "date": "2026-08-12",
+    "isSample": true
+  },
+  {
+    "id": "3",
+    "doctorName": "Dr. Brian M., DO",
+    "specialty": "Family Medicine",
+    "city": "Austin",
+    "state": "TX",
+    "rating": 5,
+    "reviewText": "Sample layout review: Front-end demographic scrubbing and real-time eligibility checks helped eliminate high volumes of patient registration rejections.",
+    "date": "2026-07-29",
+    "isSample": true
+  },
+  {
+    "id": "4",
+    "doctorName": "Dr. Sarah L., MD",
+    "specialty": "Radiology",
+    "city": "Chicago",
+    "state": "IL",
+    "rating": 5,
+    "reviewText": "Sample layout review: Rapid overnight turnaround on high-volume imaging modalities enabled clean batch submissions before next-morning clinic hours.",
+    "date": "2026-07-15",
+    "isSample": true
+  },
+  {
+    "id": "5",
+    "doctorName": "Dr. Rachel S., MD",
+    "specialty": "Neurology",
+    "city": "Denver",
+    "state": "CO",
+    "rating": 4,
+    "reviewText": "Sample layout review: Detailed prior authorization tracking and diligent payer follow-up supported steady cash flow across complex consultation schedules.",
+    "date": "2026-07-02",
+    "isSample": true
+  },
+  {
+    "id": "6",
+    "doctorName": "Dr. Anthony K., MD",
+    "specialty": "Internal Medicine",
+    "city": "Dallas",
+    "state": "TX",
+    "rating": 5,
+    "reviewText": "Sample layout review: Certified coders consistently manage multi-provider encounter documentation with strict compliance and minimal re-filing overhead.",
+    "date": "2026-06-24",
+    "isSample": true
+  },
+  {
+    "id": "7",
+    "doctorName": "Dr. Priya P., MD",
+    "specialty": "Pediatrics",
+    "city": "Phoenix",
+    "state": "AZ",
+    "rating": 5,
+    "reviewText": "Sample layout review: Preventive care modifier guidelines and immunization schedule billing are handled accurately without reimbursement lag.",
+    "date": "2026-06-11",
+    "isSample": true
+  },
+  {
+    "id": "8",
+    "doctorName": "Dr. David C., DO",
+    "specialty": "Gastroenterology",
+    "city": "Seattle",
+    "state": "WA",
+    "rating": 4,
+    "reviewText": "Sample layout review: Endoscopy and screening colonoscopy claims are billed with precise procedural modifiers, preventing payer bundling adjustments.",
+    "date": "2026-05-30",
+    "isSample": true
+  },
+  {
+    "id": "9",
+    "doctorName": "Dr. Lauren H., MD",
+    "specialty": "Dermatology",
+    "city": "Miami",
+    "state": "FL",
+    "rating": 5,
+    "reviewText": "Sample layout review: Biopsy pathology reconciliation and Mohs surgical billing workflows run with clear daily charge logs and prompt posting.",
+    "date": "2026-05-18",
+    "isSample": true
+  },
+  {
+    "id": "10",
+    "doctorName": "Dr. Kenneth B., MD",
+    "specialty": "Urology",
+    "city": "Boston",
+    "state": "MA",
+    "rating": 5,
+    "reviewText": "Sample layout review: Comprehensive clearinghouse scrubbing and fast secondary insurance billing keep outstanding aged accounts well within benchmark limits.",
+    "date": "2026-05-04",
+    "isSample": true
+  },
+  {
+    "id": "11",
+    "doctorName": "Dr. Maya N., MD",
+    "specialty": "Ophthalmology",
+    "city": "San Diego",
+    "state": "CA",
+    "rating": 5,
+    "reviewText": "Sample layout review: Diagnostic testing rules and cataract surgical packages are verified against local carrier determination policies reliably.",
+    "date": "2026-04-22",
+    "isSample": true
+  },
+  {
+    "id": "12",
+    "doctorName": "Dr. Gregory T., MD",
+    "specialty": "General Surgery",
+    "city": "Charlotte",
+    "state": "NC",
+    "rating": 4,
+    "reviewText": "Sample layout review: Operative note review and assistant surgeon modifier coding are validated diligently to maintain clean claim compliance.",
+    "date": "2026-04-09",
+    "isSample": true
+  }
+]

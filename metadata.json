@@ -1,0 +1,6 @@
+{
+  "name": "AegisPulse RCM - US Medical Billing & Revenue Cycle Management",
+  "description": "Premier US medical billing and revenue cycle management (RCM) partner based in Ahmedabad, India, delivering 98.4% first-pass clean claim rates, rapid AR recovery, and full HIPAA compliance for US healthcare providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
